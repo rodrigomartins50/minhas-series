@@ -33,25 +33,11 @@
       "comments": "Galera fala bem"
     },
     {
-      "name": "teste",
-      "status": "toWatch",
-      "genre": "Comédia",
-      "comments": "aaaa",
-      "id": 5
-    },
-    {
-      "name": "fdsg dg dsfg fd",
+      "id": 5,
+      "name": "teste 2",
       "status": "watched",
-      "genre": "Comédia",
-      "comments": "rt ert ert rete",
-      "id": 6
-    },
-    {
-      "name": "teste",
-      "status": "watched",
-      "genre": "Ação",
-      "comments": "asdf sdfa",
-      "id": 7
+      "genre": "Drama",
+      "comments": "aaaa ewr wer"
     }
   ],
   "genres": [

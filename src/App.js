@@ -8,6 +8,7 @@ import {
 import Home from './Home'
 import NewSeries from './NewSeries'
 import Series from './Series'
+import EditSeries from './EditSeries'
 
 const About = () => <h1 className="intro-section">Sobre</h1>
 
@@ -43,6 +44,7 @@ class App extends Component {
   </nav>
 
     <Route exact path='/' component={Home} />
+    <Route path='/series-edit/:id' component={EditSeries} />
     <Route path='/series/:genre' component={Series} />
     <Route exact path='/new' component={NewSeries} />
     <Route exact path='/about' component={About} />
